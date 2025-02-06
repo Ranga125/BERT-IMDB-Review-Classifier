@@ -20,9 +20,7 @@ IMDB-BERT-Sentiment-Analyzer/
 👉 bert_model.pkl          # Trained BERT model (saved from Colab using Pickle)  
 👉 requirements.txt        # Dependencies for the project  
 👉 README.md               # Project documentation  
-👉 dataset/                # IMDB dataset (if applicable)  
-👉 notebooks/              # Jupyter notebooks for training and evaluation  
-👉 utils/                  # Helper functions (if any)  
+
 </pre>
 
 <hr>
